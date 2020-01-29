@@ -1,0 +1,4 @@
+#Sat Jan 25 15:49:10 COT 2020
+base.0=/home/david/AndroidStudioProjects/100DayChallenge/MySQLAndroidCaching3/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
